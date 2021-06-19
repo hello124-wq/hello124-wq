@@ -3,6 +3,6 @@
 
 ___
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://media.tenor.com/images/7a570173867f3518fbc3f94c1c113be3/tenor.gif" alt="WELCOME" width="700" />
 
 ___
