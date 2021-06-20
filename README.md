@@ -6,4 +6,4 @@ ___
 
 ___
 
-  ![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=Rio-dev&show_icons=true&theme=buefy&show_owner=true)
+  ![Rio-Dev github stats](https://github-readme-stats.vercel.app/api?username=Rio-dev&show_icons=true&theme=buefy&show_owner=true)
