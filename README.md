@@ -7,3 +7,5 @@ ___
 ___
 
   ![Rio-Dev github stats](https://github-readme-stats.vercel.app/api?username=Rio-dev&show_icons=true&theme=buefy&show_owner=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rio-dev&theme=buefy)
