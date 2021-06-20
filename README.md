@@ -1,4 +1,4 @@
-## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rioganz
+## Yahooo <img src="https://media.tenor.com/images/ce45961fe06f1a09b7481ddc1e4b4a3f/tenor.gif" width="29px"> I'm Rioganz
 <img src="https://media.tenor.com/images/254430e135f136c17673e30520341402/tenor.gif" alt="WELCOME" width="700" />
 ___
 
