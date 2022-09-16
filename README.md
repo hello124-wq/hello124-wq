@@ -1,23 +1,11 @@
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/hello124-wq/hello124-wq/">
+    <img src="https://i.pinimg.com/236x/10/ae/24/10ae244ca9458e24b7f7524d654ac6f6.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 ## Yahooo <a href="https://github.com/hello124-wq"><img src="https://c.tenor.com/DLWGvDkhhyMAAAAi/gray-hair-big-eyes.gif"> I'm Rioganz
