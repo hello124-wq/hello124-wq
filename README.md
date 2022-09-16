@@ -21,7 +21,7 @@ ___
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
   ![](https://github-profile-trophy.vercel.app/?username=hello124-wq&row=2&column=3)
   
-   </div>
+   
 
   ![Rio-Dev github stats](https://github-readme-stats.vercel.app/api?username=hello124-wq&show_icons=true&theme=buefy&show_owner=true)
 
